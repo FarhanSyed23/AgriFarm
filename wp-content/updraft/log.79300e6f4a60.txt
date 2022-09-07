@@ -1,0 +1,488 @@
+0000.003 (0) Opened log file at time: Tue, 06 Sep 2022 18:16:23 +0000 on http://localhost/AgriFarm
+0000.006 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.26 WP: 5.4.11 PHP: 7.4.7 (apache2handler, Windows NT DESKTOP-PA13LJQ 10.0 build 19044 (Windows 10) AMD64) MySQL: 10.4.13-MariaDB WPLANG: en_US Server: Apache/2.4.43 (Win64) OpenSSL/1.1.1g PHP/7.4.7 safe_mode: 0 max_execution_time: 900 memory_limit: 512M (used: 67.8M | 70M) multisite: N openssl: OpenSSL 1.1.1g  21 Apr 2020 mcrypt: N LANG:  ZipArchive::addFile: Y
+0000.009 (0) Free space on disk containing Updraft's temporary directory: 11753.9 MB
+0000.015 (0) Deleting old log file: log.33ece2b042ab.txt
+0000.018 (0) Deleting old log file: log.3ca9ce58509d.txt
+0000.019 (0) Tasks: Backup files: 1 (schedule: weekly) Backup DB:  (schedule: weekly)
+0000.021 (0) Processed schedules. Combining jobs from identical schedules. Tasks now: Backup files: 1 Backup DB: 1
+0000.152 (0) Requesting semaphore lock (fd) (apparently via scheduler: last_scheduled_action_called_at=1598034083, seconds_ago=64454100)
+0000.159 (0) Set semaphore last lock (fd) time to 2022-09-06 18:16:23
+0000.183 (0) Semaphore lock (fd) complete
+0000.201 (0) Backup run: resumption=0, nonce=79300e6f4a60, file_nonce=79300e6f4a60 begun at=1662488183 (0s ago), job type=backup
+0000.207 (0) Scheduling a resumption (1) after 300 seconds (1662488483) in case this run gets aborted
+0000.266 (0) Checking if we have a zip executable available
+0000.271 (0) Creation of backups of directories: beginning
+0000.279 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0003.110 (0) Total entities for the zip file: 1568 directories, 7637 files (0 skipped as non-modified), 131.5 MB
+0003.120 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 1 (1) files added so far); re-opening (prior size: 0 KB)
+0003.764 (0) Zip: backup_2022-09-06-1816_AgriFarm_79300e6f4a60-plugins.zip.tmp: 100 files added (on-disk size: 292.9 KB)
+0004.220 (0) Zip: backup_2022-09-06-1816_AgriFarm_79300e6f4a60-plugins.zip.tmp: 200 files added (on-disk size: 292.9 KB)
+0004.795 (0) Zip: backup_2022-09-06-1816_AgriFarm_79300e6f4a60-plugins.zip.tmp: 300 files added (on-disk size: 292.9 KB)
+0005.327 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (5.9 MB, 390 (391) files added so far); re-opening (prior size: 292.9 KB)
+0005.828 (0) Zip: backup_2022-09-06-1816_AgriFarm_79300e6f4a60-plugins.zip.tmp: 400 files added (on-disk size: 1788.3 KB)
+0006.822 (0) Zip: backup_2022-09-06-1816_AgriFarm_79300e6f4a60-plugins.zip.tmp: 500 files added (on-disk size: 1788.3 KB)
+0007.999 (0) Zip: backup_2022-09-06-1816_AgriFarm_79300e6f4a60-plugins.zip.tmp: 600 files added (on-disk size: 1788.3 KB)
+0008.326 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (9 MB, 240 (631) files added so far); re-opening (prior size: 1788.3 KB)
+0009.559 (0) Zip: backup_2022-09-06-1816_AgriFarm_79300e6f4a60-plugins.zip.tmp: 700 files added (on-disk size: 4499 KB)
+0009.981 (0) Zip: backup_2022-09-06-1816_AgriFarm_79300e6f4a60-plugins.zip.tmp: 800 files added (on-disk size: 4499 KB)
+0010.156 (0) Zip: backup_2022-09-06-1816_AgriFarm_79300e6f4a60-plugins.zip.tmp: 900 files added (on-disk size: 4499 KB)
+0010.698 (0) Zip: backup_2022-09-06-1816_AgriFarm_79300e6f4a60-plugins.zip.tmp: 1000 files added (on-disk size: 4499 KB)
+0011.293 (0) Zip: backup_2022-09-06-1816_AgriFarm_79300e6f4a60-plugins.zip.tmp: 1100 files added (on-disk size: 4499 KB)
+0011.309 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (10.4 MB, 470 (1101) files added so far); re-opening (prior size: 4499 KB)
+0012.491 (0) Zip: backup_2022-09-06-1816_AgriFarm_79300e6f4a60-plugins.zip.tmp: 1200 files added (on-disk size: 7801.4 KB)
+0012.706 (0) Zip: backup_2022-09-06-1816_AgriFarm_79300e6f4a60-plugins.zip.tmp: 1300 files added (on-disk size: 7801.4 KB)
+0012.981 (0) Zip: backup_2022-09-06-1816_AgriFarm_79300e6f4a60-plugins.zip.tmp: 1400 files added (on-disk size: 7801.4 KB)
+0013.515 (0) Zip: backup_2022-09-06-1816_AgriFarm_79300e6f4a60-plugins.zip.tmp: 1500 files added (on-disk size: 7801.4 KB)
+0014.338 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (4.2 MB, 438 (1539) files added so far); re-opening (prior size: 7801.4 KB)
+0015.353 (0) Zip: backup_2022-09-06-1816_AgriFarm_79300e6f4a60-plugins.zip.tmp: 1600 files added (on-disk size: 8874.1 KB)
+0015.928 (0) Zip: backup_2022-09-06-1816_AgriFarm_79300e6f4a60-plugins.zip.tmp: 1700 files added (on-disk size: 8874.1 KB)
+0016.493 (0) Zip: backup_2022-09-06-1816_AgriFarm_79300e6f4a60-plugins.zip.tmp: 1800 files added (on-disk size: 8874.1 KB)
+0017.331 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (9.3 MB, 318 (1857) files added so far); re-opening (prior size: 8874.1 KB)
+0018.521 (0) Zip: backup_2022-09-06-1816_AgriFarm_79300e6f4a60-plugins.zip.tmp: 1900 files added (on-disk size: 13944.6 KB)
+0019.111 (0) Zip: backup_2022-09-06-1816_AgriFarm_79300e6f4a60-plugins.zip.tmp: 2000 files added (on-disk size: 13944.6 KB)
+0019.738 (0) Zip: backup_2022-09-06-1816_AgriFarm_79300e6f4a60-plugins.zip.tmp: 2100 files added (on-disk size: 13944.6 KB)
+0020.314 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (5.4 MB, 312 (2169) files added so far); re-opening (prior size: 13944.6 KB)
+0021.247 (0) Zip: backup_2022-09-06-1816_AgriFarm_79300e6f4a60-plugins.zip.tmp: 2200 files added (on-disk size: 15145.8 KB)
+0022.127 (0) Zip: backup_2022-09-06-1816_AgriFarm_79300e6f4a60-plugins.zip.tmp: 2300 files added (on-disk size: 15145.8 KB)
+0023.303 (0) Zip: backup_2022-09-06-1816_AgriFarm_79300e6f4a60-plugins.zip.tmp: 2400 files added (on-disk size: 15145.8 KB)
+0023.317 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (2.7 MB, 232 (2401) files added so far); re-opening (prior size: 15145.8 KB)
+0024.793 (0) Zip: backup_2022-09-06-1816_AgriFarm_79300e6f4a60-plugins.zip.tmp: 2500 files added (on-disk size: 15883 KB)
+0025.409 (0) Zip: backup_2022-09-06-1816_AgriFarm_79300e6f4a60-plugins.zip.tmp: 2600 files added (on-disk size: 15883 KB)
+0026.206 (0) Zip: backup_2022-09-06-1816_AgriFarm_79300e6f4a60-plugins.zip.tmp: 2700 files added (on-disk size: 15883 KB)
+0026.321 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (3.4 MB, 308 (2709) files added so far); re-opening (prior size: 15883 KB)
+0028.082 (0) Zip: backup_2022-09-06-1816_AgriFarm_79300e6f4a60-plugins.zip.tmp: 2800 files added (on-disk size: 17276.1 KB)
+0028.910 (0) Zip: backup_2022-09-06-1816_AgriFarm_79300e6f4a60-plugins.zip.tmp: 2900 files added (on-disk size: 17276.1 KB)
+0029.310 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (16.3 MB, 205 (2914) files added so far); re-opening (prior size: 17276.1 KB)
+0032.858 (0) Zip: backup_2022-09-06-1816_AgriFarm_79300e6f4a60-plugins.zip.tmp: 3000 files added (on-disk size: 21388.9 KB)
+0033.325 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.7 MB, 126 (3040) files added so far); re-opening (prior size: 21388.9 KB)
+0034.292 (0) Zip: backup_2022-09-06-1816_AgriFarm_79300e6f4a60-plugins.zip.tmp: 3100 files added (on-disk size: 21633.1 KB)
+0035.296 (0) Zip: backup_2022-09-06-1816_AgriFarm_79300e6f4a60-plugins.zip.tmp: 3200 files added (on-disk size: 21633.1 KB)
+0036.218 (0) Zip: backup_2022-09-06-1816_AgriFarm_79300e6f4a60-plugins.zip.tmp: 3300 files added (on-disk size: 21633.1 KB)
+0036.310 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1 MB, 267 (3307) files added so far); re-opening (prior size: 21633.1 KB)
+0037.588 (0) Zip: backup_2022-09-06-1816_AgriFarm_79300e6f4a60-plugins.zip.tmp: 3400 files added (on-disk size: 21950 KB)
+0038.588 (0) Zip: backup_2022-09-06-1816_AgriFarm_79300e6f4a60-plugins.zip.tmp: 3500 files added (on-disk size: 21950 KB)
+0039.312 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.9 MB, 261 (3568) files added so far); re-opening (prior size: 21950 KB)
+0039.991 (0) Zip: backup_2022-09-06-1816_AgriFarm_79300e6f4a60-plugins.zip.tmp: 3600 files added (on-disk size: 22363.1 KB)
+0041.141 (0) Zip: backup_2022-09-06-1816_AgriFarm_79300e6f4a60-plugins.zip.tmp: 3700 files added (on-disk size: 22363.1 KB)
+0042.042 (0) Zip: backup_2022-09-06-1816_AgriFarm_79300e6f4a60-plugins.zip.tmp: 3800 files added (on-disk size: 22363.1 KB)
+0042.312 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.7 MB, 252 (3820) files added so far); re-opening (prior size: 22363.1 KB)
+0043.378 (0) Zip: backup_2022-09-06-1816_AgriFarm_79300e6f4a60-plugins.zip.tmp: 3900 files added (on-disk size: 22856.7 KB)
+0044.174 (0) Zip: backup_2022-09-06-1816_AgriFarm_79300e6f4a60-plugins.zip.tmp: 4000 files added (on-disk size: 22856.7 KB)
+0044.836 (0) Zip: backup_2022-09-06-1816_AgriFarm_79300e6f4a60-plugins.zip.tmp: 4100 files added (on-disk size: 22856.7 KB)
+0045.315 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (7.7 MB, 333 (4153) files added so far); re-opening (prior size: 22856.7 KB)
+0046.588 (0) Zip: backup_2022-09-06-1816_AgriFarm_79300e6f4a60-plugins.zip.tmp: 4200 files added (on-disk size: 24578.5 KB)
+0048.329 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (3.7 MB, 127 (4280) files added so far); re-opening (prior size: 24578.5 KB)
+0050.054 (0) Zip: backup_2022-09-06-1816_AgriFarm_79300e6f4a60-plugins.zip.tmp: 4300 files added (on-disk size: 25379.3 KB)
+0051.311 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.4 MB, 50 (4330) files added so far); re-opening (prior size: 25379.3 KB)
+0053.558 (0) Zip: backup_2022-09-06-1816_AgriFarm_79300e6f4a60-plugins.zip.tmp: 4400 files added (on-disk size: 25483 KB)
+0053.963 (0) Zip: backup_2022-09-06-1816_AgriFarm_79300e6f4a60-plugins.zip.tmp: 4500 files added (on-disk size: 25483 KB)
+0054.326 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (2.2 MB, 204 (4534) files added so far); re-opening (prior size: 25483 KB)
+0055.431 (0) Zip: backup_2022-09-06-1816_AgriFarm_79300e6f4a60-plugins.zip.tmp: 4600 files added (on-disk size: 26062.4 KB)
+0056.022 (0) Zip: backup_2022-09-06-1816_AgriFarm_79300e6f4a60-plugins.zip.tmp: 4700 files added (on-disk size: 26062.4 KB)
+0056.909 (0) Zip: backup_2022-09-06-1816_AgriFarm_79300e6f4a60-plugins.zip.tmp: 4800 files added (on-disk size: 26062.4 KB)
+0057.314 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (4.8 MB, 299 (4833) files added so far); re-opening (prior size: 26062.4 KB)
+0058.831 (0) Zip: backup_2022-09-06-1816_AgriFarm_79300e6f4a60-plugins.zip.tmp: 4900 files added (on-disk size: 27302.3 KB)
+0060.313 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (10.1 MB, 141 (4974) files added so far); re-opening (prior size: 27302.3 KB)
+0061.646 (0) Zip: backup_2022-09-06-1816_AgriFarm_79300e6f4a60-plugins.zip.tmp: 5000 files added (on-disk size: 29740.7 KB)
+0062.157 (0) Zip: backup_2022-09-06-1816_AgriFarm_79300e6f4a60-plugins.zip.tmp: 5100 files added (on-disk size: 29740.7 KB)
+0062.724 (0) Zip: backup_2022-09-06-1816_AgriFarm_79300e6f4a60-plugins.zip.tmp: 5200 files added (on-disk size: 29740.7 KB)
+0063.635 (0) Zip: backup_2022-09-06-1816_AgriFarm_79300e6f4a60-plugins.zip.tmp: 5300 files added (on-disk size: 29740.7 KB)
+0064.202 (0) Zip: backup_2022-09-06-1816_AgriFarm_79300e6f4a60-plugins.zip.tmp: 5400 files added (on-disk size: 29740.7 KB)
+0064.309 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (3.2 MB, 444 (5418) files added so far); re-opening (prior size: 29740.7 KB)
+0065.551 (0) Zip: backup_2022-09-06-1816_AgriFarm_79300e6f4a60-plugins.zip.tmp: 5500 files added (on-disk size: 31006.8 KB)
+0066.195 (0) Zip: backup_2022-09-06-1816_AgriFarm_79300e6f4a60-plugins.zip.tmp: 5600 files added (on-disk size: 31006.8 KB)
+0066.930 (0) Zip: backup_2022-09-06-1816_AgriFarm_79300e6f4a60-plugins.zip.tmp: 5700 files added (on-disk size: 31006.8 KB)
+0067.313 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.6 MB, 337 (5755) files added so far); re-opening (prior size: 31006.8 KB)
+0068.139 (0) Zip: backup_2022-09-06-1816_AgriFarm_79300e6f4a60-plugins.zip.tmp: 5800 files added (on-disk size: 31319.6 KB)
+0068.883 (0) Zip: backup_2022-09-06-1816_AgriFarm_79300e6f4a60-plugins.zip.tmp: 5900 files added (on-disk size: 31319.6 KB)
+0069.592 (0) Zip: backup_2022-09-06-1816_AgriFarm_79300e6f4a60-plugins.zip.tmp: 6000 files added (on-disk size: 31319.6 KB)
+0070.313 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.7 MB, 302 (6057) files added so far); re-opening (prior size: 31319.6 KB)
+0071.320 (0) Zip: backup_2022-09-06-1816_AgriFarm_79300e6f4a60-plugins.zip.tmp: 6100 files added (on-disk size: 31915.2 KB)
+0072.796 (0) Zip: backup_2022-09-06-1816_AgriFarm_79300e6f4a60-plugins.zip.tmp: 6200 files added (on-disk size: 31915.2 KB)
+0073.182 (0) Zip: backup_2022-09-06-1816_AgriFarm_79300e6f4a60-plugins.zip.tmp: 6300 files added (on-disk size: 31915.2 KB)
+0073.315 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (5.2 MB, 261 (6318) files added so far); re-opening (prior size: 31915.2 KB)
+0074.656 (0) Zip: backup_2022-09-06-1816_AgriFarm_79300e6f4a60-plugins.zip.tmp: 6400 files added (on-disk size: 33348.7 KB)
+0074.735 (0) Zip: backup_2022-09-06-1816_AgriFarm_79300e6f4a60-plugins.zip.tmp: 6500 files added (on-disk size: 33348.7 KB)
+0076.338 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.7 MB, 259 (6577) files added so far); re-opening (prior size: 33348.7 KB)
+0077.327 (0) Zip: backup_2022-09-06-1816_AgriFarm_79300e6f4a60-plugins.zip.tmp: 6600 files added (on-disk size: 33763.4 KB)
+0078.559 (0) Zip: backup_2022-09-06-1816_AgriFarm_79300e6f4a60-plugins.zip.tmp: 6700 files added (on-disk size: 33763.4 KB)
+0079.054 (0) Zip: backup_2022-09-06-1816_AgriFarm_79300e6f4a60-plugins.zip.tmp: 6800 files added (on-disk size: 33763.4 KB)
+0079.316 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.7 MB, 245 (6822) files added so far); re-opening (prior size: 33763.4 KB)
+0080.568 (0) Zip: backup_2022-09-06-1816_AgriFarm_79300e6f4a60-plugins.zip.tmp: 6900 files added (on-disk size: 34006.1 KB)
+0082.343 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.7 MB, 166 (6988) files added so far); re-opening (prior size: 34006.1 KB)
+0083.035 (0) Zip: backup_2022-09-06-1816_AgriFarm_79300e6f4a60-plugins.zip.tmp: 7000 files added (on-disk size: 34199 KB)
+0083.612 (0) Zip: backup_2022-09-06-1816_AgriFarm_79300e6f4a60-plugins.zip.tmp: 7100 files added (on-disk size: 34199 KB)
+0084.728 (0) Zip: backup_2022-09-06-1816_AgriFarm_79300e6f4a60-plugins.zip.tmp: 7200 files added (on-disk size: 34199 KB)
+0085.331 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (8.4 MB, 252 (7240) files added so far); re-opening (prior size: 34199 KB)
+0087.467 (0) Zip: backup_2022-09-06-1816_AgriFarm_79300e6f4a60-plugins.zip.tmp: 7300 files added (on-disk size: 40073.8 KB)
+0088.676 (0) Zip: backup_2022-09-06-1816_AgriFarm_79300e6f4a60-plugins.zip.tmp: 7400 files added (on-disk size: 40073.8 KB)
+0089.404 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (5.8 MB, 227 (7467) files added so far); re-opening (prior size: 40073.8 KB)
+0090.733 (0) Zip: backup_2022-09-06-1816_AgriFarm_79300e6f4a60-plugins.zip.tmp: 7500 files added (on-disk size: 42664.6 KB)
+0091.188 (0) Zip: backup_2022-09-06-1816_AgriFarm_79300e6f4a60-plugins.zip.tmp: 7600 files added (on-disk size: 42664.6 KB)
+0092.662 (0) Created plugins zip (0) - 43842.1 KB in 92.4 s (474.6 KB/s) (sha1: d2f5212865186e4acbe16d67a5d9bcb2bd8a6b77, sha256: dcee64668314bd20e3e12baa20a1a151de893d13d501637f5d864fd0f2993f1b)
+0092.669 (0) Beginning creation of dump of themes (split every: 400 MB)
+0092.929 (0) Total entities for the zip file: 170 directories, 632 files (0 skipped as non-modified), 8.3 MB
+0093.535 (0) Zip: backup_2022-09-06-1816_AgriFarm_79300e6f4a60-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+0094.026 (0) Zip: backup_2022-09-06-1816_AgriFarm_79300e6f4a60-themes.zip.tmp: 200 files added (on-disk size: 0 KB)
+0094.740 (0) Zip: backup_2022-09-06-1816_AgriFarm_79300e6f4a60-themes.zip.tmp: 300 files added (on-disk size: 0 KB)
+0095.311 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (3.9 MB, 351 (351) files added so far); re-opening (prior size: 0 KB)
+0095.767 (0) Zip: backup_2022-09-06-1816_AgriFarm_79300e6f4a60-themes.zip.tmp: 400 files added (on-disk size: 800.2 KB)
+0096.646 (0) Zip: backup_2022-09-06-1816_AgriFarm_79300e6f4a60-themes.zip.tmp: 500 files added (on-disk size: 800.2 KB)
+0097.889 (0) Zip: backup_2022-09-06-1816_AgriFarm_79300e6f4a60-themes.zip.tmp: 600 files added (on-disk size: 800.2 KB)
+0098.354 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (4.4 MB, 270 (621) files added so far); re-opening (prior size: 800.2 KB)
+0098.914 (0) Created themes zip (0) - 3164.6 KB in 6.2 s (507.1 KB/s) (sha1: 8df72648d767bb3345d7823f9c9cbd17b374b5dc, sha256: 39fa13aba0aca1ec50c435ebd8fca67323c486b8af5f542722df2a62fe3126f3)
+0098.921 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0098.923 (0) Looking for candidates to backup in: C:\xampp\htdocs\AgriFarm/wp-content/uploads
+0098.925 (0) finding files: 2017: adding to list (1)
+0098.928 (0) finding files: 2018: adding to list (2)
+0098.930 (0) finding files: 2019: adding to list (3)
+0098.932 (0) finding files: 2020: adding to list (4)
+0098.934 (0) finding files: 2022: adding to list (5)
+0098.936 (0) finding files: astra: adding to list (6)
+0098.938 (0) finding files: astra-addon: adding to list (7)
+0098.939 (0) finding files: astra-sites: adding to list (8)
+0098.941 (0) finding files: cartflows-logs: adding to list (9)
+0098.943 (0) finding files: elementor: adding to list (10)
+0098.945 (0) finding files: essential-addons-elementor: adding to list (11)
+0098.947 (0) finding files: wc-logs: adding to list (12)
+0098.948 (0) finding files: woocommerce-placeholder-100x100.png: adding to list (13)
+0098.950 (0) finding files: woocommerce-placeholder-1024x1024.png: adding to list (14)
+0098.952 (0) finding files: woocommerce-placeholder-150x150.png: adding to list (15)
+0098.954 (0) finding files: woocommerce-placeholder-300x300.png: adding to list (16)
+0098.956 (0) finding files: woocommerce-placeholder-600x600.png: adding to list (17)
+0098.958 (0) finding files: woocommerce-placeholder-768x768.png: adding to list (18)
+0098.959 (0) finding files: woocommerce-placeholder.png: adding to list (19)
+0098.961 (0) finding files: woocommerce_uploads: adding to list (20)
+0098.963 (0) finding files: wpforms: adding to list (21)
+0098.965 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0099.379 (0) Total entities for the zip file: 29 directories, 1098 files (0 skipped as non-modified), 123.2 MB
+0099.445 (0) Zip: backup_2022-09-06-1816_AgriFarm_79300e6f4a60-uploads.zip.tmp: 100 files added (on-disk size: 0 KB)
+0099.493 (0) Zip: backup_2022-09-06-1816_AgriFarm_79300e6f4a60-uploads.zip.tmp: 200 files added (on-disk size: 0 KB)
+0099.622 (0) Zip: backup_2022-09-06-1816_AgriFarm_79300e6f4a60-uploads.zip.tmp: 300 files added (on-disk size: 0 KB)
+0099.837 (0) Zip: backup_2022-09-06-1816_AgriFarm_79300e6f4a60-uploads.zip.tmp: 400 files added (on-disk size: 0 KB)
+0099.906 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 25 MB added on this batch (26.9 MB, 1098 files batched, 477 (477) added so far); re-opening (prior size: 0 KB)
+0100.426 (0) A useful amount of data was added after this amount of zip processing: 2.1 s (normalised: 2 s, rate: 12988.3 KB/s)
+0100.431 (0) Performance is good - will increase the amount of data we attempt to batch (time=2.1181659698486, normalised_time=1.9710019495815, max_time=100.42558002472, data points known=1, old_max_bytes=26214400, new_max_bytes=209715200)
+0100.587 (0) Zip: backup_2022-09-06-1816_AgriFarm_79300e6f4a60-uploads.zip.tmp: 500 files added (on-disk size: 27590.9 KB)
+0100.712 (0) Zip: backup_2022-09-06-1816_AgriFarm_79300e6f4a60-uploads.zip.tmp: 600 files added (on-disk size: 27590.9 KB)
+0100.836 (0) Zip: backup_2022-09-06-1816_AgriFarm_79300e6f4a60-uploads.zip.tmp: 700 files added (on-disk size: 27590.9 KB)
+0101.304 (0) Zip: backup_2022-09-06-1816_AgriFarm_79300e6f4a60-uploads.zip.tmp: 800 files added (on-disk size: 27590.9 KB)
+0101.450 (0) Zip: backup_2022-09-06-1816_AgriFarm_79300e6f4a60-uploads.zip.tmp: 900 files added (on-disk size: 27590.9 KB)
+0101.742 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (64.7 MB, 1098 files batched, 501 (978) added so far); re-opening (prior size: 27590.9 KB)
+0103.100 (0) Zip: backup_2022-09-06-1816_AgriFarm_79300e6f4a60-uploads.zip.tmp: 1000 files added (on-disk size: 85253.2 KB)
+0106.324 (0) Created uploads zip (0) - 90456 KB in 7.4 s (12300.7 KB/s) (sha1: 235dad0917782e4f287b25ebd7b5a013df6c02bc, sha256: ad61bf210afab4d8154c157ab6d115ae56b3d527b9cf78f063a3c13a435193c1)
+0106.330 (0) Beginning backup of other directories found in the content directory (index: 0)
+0106.332 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0106.334 (0) Looking for candidates to backup in: C:\xampp\htdocs\AgriFarm/wp-content
+0106.336 (0) finding files: ai1wm-backups: skipping: excluded by options (glob)
+0106.338 (0) finding files: index.php: adding to list (1)
+0106.340 (0) finding files: plugins: skipping: this is the plugins directory
+0106.342 (0) finding files: themes: skipping: this is the themes directory
+0106.344 (0) finding files: updraft: skipping: this is the updraft directory
+0106.346 (0) finding files: upgrade: skipping: excluded by options
+0106.348 (0) finding files: uploads: skipping: this is the uploads directory
+0106.356 (0) Total entities for the zip file: 0 directories, 1 files (0 skipped as non-modified), 0 MB
+0106.383 (0) Created others zip (0) - 0.1 KB in 0 s (4.7 KB/s) (sha1: 76f91e7e5f3aa0f797d8234f4569c2faca7c44d1, sha256: 3dd5f2faa2eb1f358ce70ae1b4904fc58c06f6de62da1a960561cebd03b167cb)
+0106.393 (0) Saving backup status to database (elements: 8)
+0106.398 (0) Beginning creation of database dump (WordPress DB)
+0106.619 (0) Table wp_options: Total expected rows (approximate): 617
+0106.713 (0) Table wp_options: Rows added in this batch (start page: 0; next: finished): 623 in 0.09 seconds
+0106.717 (0) Table wp_options: finishing file (backup_2022-09-06-1816_AgriFarm_79300e6f4a60-db-table-wp_options.table.gz - 170.1 KB)
+0106.728 (0) Table wp_users: Total expected rows (approximate): 0
+0106.735 (0) Table wp_users: Rows added in this batch (start page: 0; next: finished): 4 in 0.01 seconds
+0106.738 (0) Table wp_users: finishing file (backup_2022-09-06-1816_AgriFarm_79300e6f4a60-db-table-wp_users.table.gz - 0.8 KB)
+0106.749 (0) Table wp_usermeta: Total expected rows (approximate): 157
+0106.757 (0) Table wp_usermeta: Rows added in this batch (start page: 0; next: finished): 159 in 0.01 seconds
+0106.779 (0) Table wp_usermeta: finishing file (backup_2022-09-06-1816_AgriFarm_79300e6f4a60-db-table-wp_usermeta.table.gz - 3 KB)
+0106.792 (0) Table wp_actionscheduler_actions: Total expected rows (approximate): 63
+0106.800 (0) Table wp_actionscheduler_actions: Rows added in this batch (start page: 0; next: finished): 63 in 0.01 seconds
+0106.803 (0) Table wp_actionscheduler_actions: finishing file (backup_2022-09-06-1816_AgriFarm_79300e6f4a60-db-table-wp_actionscheduler_actions.table.gz - 2.4 KB)
+0106.815 (0) Table wp_actionscheduler_claims: Total expected rows (approximate): 0
+0106.823 (0) Table wp_actionscheduler_claims: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0106.826 (0) Table wp_actionscheduler_claims: finishing file (backup_2022-09-06-1816_AgriFarm_79300e6f4a60-db-table-wp_actionscheduler_claims.table.gz - 0.3 KB)
+0106.847 (0) Table wp_actionscheduler_groups: Total expected rows (approximate): 2
+0106.855 (0) Table wp_actionscheduler_groups: Rows added in this batch (start page: 0; next: finished): 4 in 0.01 seconds
+0106.858 (0) Table wp_actionscheduler_groups: finishing file (backup_2022-09-06-1816_AgriFarm_79300e6f4a60-db-table-wp_actionscheduler_groups.table.gz - 0.4 KB)
+0106.870 (0) Table wp_actionscheduler_logs: Total expected rows (approximate): 189
+0106.880 (0) Table wp_actionscheduler_logs: Rows added in this batch (start page: 0; next: finished): 189 in 0.01 seconds
+0106.883 (0) Table wp_actionscheduler_logs: finishing file (backup_2022-09-06-1816_AgriFarm_79300e6f4a60-db-table-wp_actionscheduler_logs.table.gz - 2.3 KB)
+0106.896 (0) Table wp_commentmeta: Total expected rows (approximate): 4
+0106.904 (0) Table wp_commentmeta: Rows added in this batch (start page: 0; next: finished): 4 in 0.01 seconds
+0106.907 (0) Table wp_commentmeta: finishing file (backup_2022-09-06-1816_AgriFarm_79300e6f4a60-db-table-wp_commentmeta.table.gz - 0.4 KB)
+0106.918 (0) Table wp_comments: Total expected rows (approximate): 38
+0106.927 (0) Table wp_comments: Rows added in this batch (start page: 0; next: finished): 46 in 0.01 seconds
+0106.930 (0) Table wp_comments: finishing file (backup_2022-09-06-1816_AgriFarm_79300e6f4a60-db-table-wp_comments.table.gz - 2.1 KB)
+0106.945 (0) Table wp_links: Total expected rows (approximate): 0
+0106.952 (0) Table wp_links: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0106.954 (0) Table wp_links: finishing file (backup_2022-09-06-1816_AgriFarm_79300e6f4a60-db-table-wp_links.table.gz - 0.4 KB)
+0106.969 (0) Table wp_postmeta: Total expected rows (approximate): 3344
+0107.117 (0) Table wp_postmeta: Rows added in this batch (start page: 0; next: finished): 3304 in 0.15 seconds
+0107.160 (0) Table wp_postmeta: finishing file (backup_2022-09-06-1816_AgriFarm_79300e6f4a60-db-table-wp_postmeta.table.gz - 221.3 KB)
+0107.172 (0) Table wp_posts: Total expected rows (approximate): 447
+0107.255 (0) Table wp_posts: Rows added in this batch (start page: 0; next: finished): 499 in 0.08 seconds
+0107.258 (0) Table wp_posts: finishing file (backup_2022-09-06-1816_AgriFarm_79300e6f4a60-db-table-wp_posts.table.gz - 109.5 KB)
+0107.274 (0) Table wp_signups: Total expected rows (approximate): 0
+0107.282 (0) Table wp_signups: Rows added in this batch (start page: 0; next: finished): 0 in 0.01 seconds
+0107.285 (0) Table wp_signups: finishing file (backup_2022-09-06-1816_AgriFarm_79300e6f4a60-db-table-wp_signups.table.gz - 0.4 KB)
+0107.296 (0) Table wp_term_relationships: Total expected rows (approximate): 77
+0107.304 (0) Table wp_term_relationships: Rows added in this batch (start page: 0; next: finished): 77 in 0.01 seconds
+0107.306 (0) Table wp_term_relationships: finishing file (backup_2022-09-06-1816_AgriFarm_79300e6f4a60-db-table-wp_term_relationships.table.gz - 0.6 KB)
+0107.318 (0) Table wp_term_taxonomy: Total expected rows (approximate): 40
+0107.329 (0) Table wp_term_taxonomy: Rows added in this batch (start page: 0; next: finished): 40 in 0.01 seconds
+0107.331 (0) Table wp_term_taxonomy: finishing file (backup_2022-09-06-1816_AgriFarm_79300e6f4a60-db-table-wp_term_taxonomy.table.gz - 0.7 KB)
+0107.342 (0) Table wp_termmeta: Total expected rows (approximate): 24
+0107.349 (0) Table wp_termmeta: Rows added in this batch (start page: 0; next: finished): 24 in 0.00 seconds
+0107.352 (0) Table wp_termmeta: finishing file (backup_2022-09-06-1816_AgriFarm_79300e6f4a60-db-table-wp_termmeta.table.gz - 0.6 KB)
+0107.363 (0) Table wp_terms: Total expected rows (approximate): 36
+0107.370 (0) Table wp_terms: Rows added in this batch (start page: 0; next: finished): 40 in 0.00 seconds
+0107.373 (0) Table wp_terms: finishing file (backup_2022-09-06-1816_AgriFarm_79300e6f4a60-db-table-wp_terms.table.gz - 0.9 KB)
+0107.389 (0) Table wp_wc_category_lookup: Total expected rows (approximate): 9
+0107.395 (0) Table wp_wc_category_lookup: Rows added in this batch (start page: 0; next: finished): 9 in 0.00 seconds
+0107.398 (0) Table wp_wc_category_lookup: finishing file (backup_2022-09-06-1816_AgriFarm_79300e6f4a60-db-table-wp_wc_category_lookup.table.gz - 0.4 KB)
+0107.414 (0) Table wp_wc_product_meta_lookup: Total expected rows (approximate): 29
+0107.421 (0) Table wp_wc_product_meta_lookup: Rows added in this batch (start page: 0; next: finished): 29 in 0.00 seconds
+0107.423 (0) Table wp_wc_product_meta_lookup: finishing file (backup_2022-09-06-1816_AgriFarm_79300e6f4a60-db-table-wp_wc_product_meta_lookup.table.gz - 0.8 KB)
+0107.438 (0) Table wp_wc_reserved_stock: Total expected rows (approximate): 0
+0107.444 (0) Table wp_wc_reserved_stock: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0107.447 (0) Table wp_wc_reserved_stock: finishing file (backup_2022-09-06-1816_AgriFarm_79300e6f4a60-db-table-wp_wc_reserved_stock.table.gz - 0.3 KB)
+0107.458 (0) Table wp_wc_tax_rate_classes: Total expected rows (approximate): 2
+0107.465 (0) Table wp_wc_tax_rate_classes: Rows added in this batch (start page: 0; next: finished): 2 in 0.00 seconds
+0107.468 (0) Table wp_wc_tax_rate_classes: finishing file (backup_2022-09-06-1816_AgriFarm_79300e6f4a60-db-table-wp_wc_tax_rate_classes.table.gz - 0.4 KB)
+0107.484 (0) Table wp_woocommerce_order_itemmeta: Total expected rows (approximate): 294
+0107.493 (0) Table wp_woocommerce_order_itemmeta: Rows added in this batch (start page: 0; next: finished): 297 in 0.01 seconds
+0107.495 (0) Table wp_woocommerce_order_itemmeta: finishing file (backup_2022-09-06-1816_AgriFarm_79300e6f4a60-db-table-wp_woocommerce_order_itemmeta.table.gz - 2.3 KB)
+0107.510 (0) Table wp_woocommerce_payment_tokenmeta: Total expected rows (approximate): 0
+0107.519 (0) Table wp_woocommerce_payment_tokenmeta: Rows added in this batch (start page: 0; next: finished): 0 in 0.01 seconds
+0107.521 (0) Table wp_woocommerce_payment_tokenmeta: finishing file (backup_2022-09-06-1816_AgriFarm_79300e6f4a60-db-table-wp_woocommerce_payment_tokenmeta.table.gz - 0.4 KB)
+0107.531 (0) Table wp_cartflows_ca_cart_abandonment: Total expected rows (approximate): 5
+0107.539 (0) Table wp_cartflows_ca_cart_abandonment: Rows added in this batch (start page: 0; next: finished): 5 in 0.01 seconds
+0107.542 (0) Table wp_cartflows_ca_cart_abandonment: finishing file (backup_2022-09-06-1816_AgriFarm_79300e6f4a60-db-table-wp_cartflows_ca_cart_abandonment.table.gz - 1.7 KB)
+0107.552 (0) Table wp_cartflows_ca_email_history: Total expected rows (approximate): 0
+0107.558 (0) Table wp_cartflows_ca_email_history: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0107.561 (0) Table wp_cartflows_ca_email_history: finishing file (backup_2022-09-06-1816_AgriFarm_79300e6f4a60-db-table-wp_cartflows_ca_email_history.table.gz - 0.5 KB)
+0107.572 (0) Table wp_cartflows_ca_email_templates: Total expected rows (approximate): 3
+0107.579 (0) Table wp_cartflows_ca_email_templates: Rows added in this batch (start page: 0; next: finished): 3 in 0.00 seconds
+0107.581 (0) Table wp_cartflows_ca_email_templates: finishing file (backup_2022-09-06-1816_AgriFarm_79300e6f4a60-db-table-wp_cartflows_ca_email_templates.table.gz - 1.1 KB)
+0107.593 (0) Table wp_cartflows_ca_email_templates_meta: Total expected rows (approximate): 15
+0107.600 (0) Table wp_cartflows_ca_email_templates_meta: Rows added in this batch (start page: 0; next: finished): 15 in 0.00 seconds
+0107.602 (0) Table wp_cartflows_ca_email_templates_meta: finishing file (backup_2022-09-06-1816_AgriFarm_79300e6f4a60-db-table-wp_cartflows_ca_email_templates_meta.table.gz - 0.6 KB)
+0107.616 (0) Table wp_maxbuttons_collections: Total expected rows (approximate): 0
+0107.622 (0) Table wp_maxbuttons_collections: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0107.624 (0) Table wp_maxbuttons_collections: finishing file (backup_2022-09-06-1816_AgriFarm_79300e6f4a60-db-table-wp_maxbuttons_collections.table.gz - 0.3 KB)
+0107.638 (0) Table wp_maxbuttonsv3: Total expected rows (approximate): 0
+0107.644 (0) Table wp_maxbuttonsv3: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0107.646 (0) Table wp_maxbuttonsv3: finishing file (backup_2022-09-06-1816_AgriFarm_79300e6f4a60-db-table-wp_maxbuttonsv3.table.gz - 0.5 KB)
+0107.660 (0) Table wp_noptin_automation_rules: Total expected rows (approximate): 0
+0107.666 (0) Table wp_noptin_automation_rules: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0107.668 (0) Table wp_noptin_automation_rules: finishing file (backup_2022-09-06-1816_AgriFarm_79300e6f4a60-db-table-wp_noptin_automation_rules.table.gz - 0.4 KB)
+0107.679 (0) Table wp_noptin_subscriber_meta: Total expected rows (approximate): 2
+0107.686 (0) Table wp_noptin_subscriber_meta: Rows added in this batch (start page: 0; next: finished): 3 in 0.01 seconds
+0107.688 (0) Table wp_noptin_subscriber_meta: finishing file (backup_2022-09-06-1816_AgriFarm_79300e6f4a60-db-table-wp_noptin_subscriber_meta.table.gz - 0.5 KB)
+0107.703 (0) Table wp_noptin_subscribers: Total expected rows (approximate): 2
+0107.709 (0) Table wp_noptin_subscribers: Rows added in this batch (start page: 0; next: finished): 2 in 0.00 seconds
+0107.712 (0) Table wp_noptin_subscribers: finishing file (backup_2022-09-06-1816_AgriFarm_79300e6f4a60-db-table-wp_noptin_subscribers.table.gz - 0.5 KB)
+0107.722 (0) Table wp_wc_admin_note_actions: Total expected rows (approximate): 8
+0107.729 (0) Table wp_wc_admin_note_actions: Rows added in this batch (start page: 0; next: finished): 10 in 0.00 seconds
+0107.732 (0) Table wp_wc_admin_note_actions: finishing file (backup_2022-09-06-1816_AgriFarm_79300e6f4a60-db-table-wp_wc_admin_note_actions.table.gz - 0.9 KB)
+0107.743 (0) Table wp_wc_admin_notes: Total expected rows (approximate): 8
+0107.750 (0) Table wp_wc_admin_notes: Rows added in this batch (start page: 0; next: finished): 10 in 0.00 seconds
+0107.752 (0) Table wp_wc_admin_notes: finishing file (backup_2022-09-06-1816_AgriFarm_79300e6f4a60-db-table-wp_wc_admin_notes.table.gz - 1.8 KB)
+0107.766 (0) Table wp_wc_customer_lookup: Total expected rows (approximate): 5
+0107.772 (0) Table wp_wc_customer_lookup: Rows added in this batch (start page: 0; next: finished): 5 in 0.00 seconds
+0107.775 (0) Table wp_wc_customer_lookup: finishing file (backup_2022-09-06-1816_AgriFarm_79300e6f4a60-db-table-wp_wc_customer_lookup.table.gz - 0.7 KB)
+0107.790 (0) Table wp_wc_download_log: Total expected rows (approximate): 2
+0107.799 (0) Table wp_wc_download_log: Rows added in this batch (start page: 0; next: finished): 2 in 0.01 seconds
+0107.806 (0) Table wp_wc_download_log: finishing file (backup_2022-09-06-1816_AgriFarm_79300e6f4a60-db-table-wp_wc_download_log.table.gz - 0.5 KB)
+0107.837 (0) Table wp_wc_order_coupon_lookup: Total expected rows (approximate): 0
+0107.843 (0) Table wp_wc_order_coupon_lookup: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0107.846 (0) Table wp_wc_order_coupon_lookup: finishing file (backup_2022-09-06-1816_AgriFarm_79300e6f4a60-db-table-wp_wc_order_coupon_lookup.table.gz - 0.4 KB)
+0107.861 (0) Table wp_wc_order_product_lookup: Total expected rows (approximate): 23
+0107.868 (0) Table wp_wc_order_product_lookup: Rows added in this batch (start page: 0; next: finished): 29 in 0.00 seconds
+0107.871 (0) Table wp_wc_order_product_lookup: finishing file (backup_2022-09-06-1816_AgriFarm_79300e6f4a60-db-table-wp_wc_order_product_lookup.table.gz - 0.9 KB)
+0107.887 (0) Table wp_wc_order_stats: Total expected rows (approximate): 17
+0107.894 (0) Table wp_wc_order_stats: Rows added in this batch (start page: 0; next: finished): 18 in 0.01 seconds
+0107.897 (0) Table wp_wc_order_stats: finishing file (backup_2022-09-06-1816_AgriFarm_79300e6f4a60-db-table-wp_wc_order_stats.table.gz - 0.9 KB)
+0107.913 (0) Table wp_wc_order_tax_lookup: Total expected rows (approximate): 0
+0107.920 (0) Table wp_wc_order_tax_lookup: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0107.922 (0) Table wp_wc_order_tax_lookup: finishing file (backup_2022-09-06-1816_AgriFarm_79300e6f4a60-db-table-wp_wc_order_tax_lookup.table.gz - 0.4 KB)
+0107.939 (0) Table wp_wc_webhooks: Total expected rows (approximate): 0
+0107.946 (0) Table wp_wc_webhooks: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0107.949 (0) Table wp_wc_webhooks: finishing file (backup_2022-09-06-1816_AgriFarm_79300e6f4a60-db-table-wp_wc_webhooks.table.gz - 0.5 KB)
+0107.965 (0) Table wp_woocommerce_api_keys: Total expected rows (approximate): 0
+0107.971 (0) Table wp_woocommerce_api_keys: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0107.974 (0) Table wp_woocommerce_api_keys: finishing file (backup_2022-09-06-1816_AgriFarm_79300e6f4a60-db-table-wp_woocommerce_api_keys.table.gz - 0.4 KB)
+0107.990 (0) Table wp_woocommerce_attribute_taxonomies: Total expected rows (approximate): 0
+0107.996 (0) Table wp_woocommerce_attribute_taxonomies: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0107.999 (0) Table wp_woocommerce_attribute_taxonomies: finishing file (backup_2022-09-06-1816_AgriFarm_79300e6f4a60-db-table-wp_woocommerce_attribute_taxonomies.table.gz - 0.4 KB)
+0108.014 (0) Table wp_woocommerce_downloadable_product_permissions: Total expected rows (approximate): 6
+0108.023 (0) Table wp_woocommerce_downloadable_product_permissions: Rows added in this batch (start page: 0; next: finished): 6 in 0.01 seconds
+0108.025 (0) Table wp_woocommerce_downloadable_product_permissions: finishing file (backup_2022-09-06-1816_AgriFarm_79300e6f4a60-db-table-wp_woocommerce_downloadable_product_permissions.table.gz - 0.8 KB)
+0108.040 (0) Table wp_woocommerce_log: Total expected rows (approximate): 0
+0108.046 (0) Table wp_woocommerce_log: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0108.048 (0) Table wp_woocommerce_log: finishing file (backup_2022-09-06-1816_AgriFarm_79300e6f4a60-db-table-wp_woocommerce_log.table.gz - 0.4 KB)
+0108.063 (0) Table wp_woocommerce_multisafepay: Total expected rows (approximate): 2
+0108.070 (0) Table wp_woocommerce_multisafepay: Rows added in this batch (start page: 0; next: finished): 3 in 0.00 seconds
+0108.072 (0) Table wp_woocommerce_multisafepay: finishing file (backup_2022-09-06-1816_AgriFarm_79300e6f4a60-db-table-wp_woocommerce_multisafepay.table.gz - 0.4 KB)
+0108.088 (0) Table wp_woocommerce_order_items: Total expected rows (approximate): 29
+0108.095 (0) Table wp_woocommerce_order_items: Rows added in this batch (start page: 0; next: finished): 35 in 0.00 seconds
+0108.097 (0) Table wp_woocommerce_order_items: finishing file (backup_2022-09-06-1816_AgriFarm_79300e6f4a60-db-table-wp_woocommerce_order_items.table.gz - 0.6 KB)
+0108.112 (0) Table wp_woocommerce_payment_tokens: Total expected rows (approximate): 0
+0108.118 (0) Table wp_woocommerce_payment_tokens: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0108.120 (0) Table wp_woocommerce_payment_tokens: finishing file (backup_2022-09-06-1816_AgriFarm_79300e6f4a60-db-table-wp_woocommerce_payment_tokens.table.gz - 0.4 KB)
+0108.131 (0) Table wp_woocommerce_sessions: Total expected rows (approximate): 0
+0108.140 (0) Table wp_woocommerce_sessions: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0108.142 (0) Table wp_woocommerce_sessions: finishing file (backup_2022-09-06-1816_AgriFarm_79300e6f4a60-db-table-wp_woocommerce_sessions.table.gz - 0.4 KB)
+0108.157 (0) Table wp_woocommerce_shipping_zone_locations: Total expected rows (approximate): 0
+0108.163 (0) Table wp_woocommerce_shipping_zone_locations: Rows added in this batch (start page: 0; next: finished): 2 in 0.00 seconds
+0108.166 (0) Table wp_woocommerce_shipping_zone_locations: finishing file (backup_2022-09-06-1816_AgriFarm_79300e6f4a60-db-table-wp_woocommerce_shipping_zone_locations.table.gz - 0.4 KB)
+0108.180 (0) Table wp_woocommerce_shipping_zone_methods: Total expected rows (approximate): 2
+0108.188 (0) Table wp_woocommerce_shipping_zone_methods: Rows added in this batch (start page: 0; next: finished): 3 in 0.01 seconds
+0108.191 (0) Table wp_woocommerce_shipping_zone_methods: finishing file (backup_2022-09-06-1816_AgriFarm_79300e6f4a60-db-table-wp_woocommerce_shipping_zone_methods.table.gz - 0.4 KB)
+0108.205 (0) Table wp_woocommerce_shipping_zones: Total expected rows (approximate): 0
+0108.211 (0) Table wp_woocommerce_shipping_zones: Rows added in this batch (start page: 0; next: finished): 2 in 0.00 seconds
+0108.213 (0) Table wp_woocommerce_shipping_zones: finishing file (backup_2022-09-06-1816_AgriFarm_79300e6f4a60-db-table-wp_woocommerce_shipping_zones.table.gz - 0.4 KB)
+0108.225 (0) Table wp_woocommerce_tax_rate_locations: Total expected rows (approximate): 0
+0108.231 (0) Table wp_woocommerce_tax_rate_locations: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0108.234 (0) Table wp_woocommerce_tax_rate_locations: finishing file (backup_2022-09-06-1816_AgriFarm_79300e6f4a60-db-table-wp_woocommerce_tax_rate_locations.table.gz - 0.4 KB)
+0108.246 (0) Table wp_woocommerce_tax_rates: Total expected rows (approximate): 0
+0108.252 (0) Table wp_woocommerce_tax_rates: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0108.255 (0) Table wp_woocommerce_tax_rates: finishing file (backup_2022-09-06-1816_AgriFarm_79300e6f4a60-db-table-wp_woocommerce_tax_rates.table.gz - 0.4 KB)
+0108.269 (0) Table wp_wpforms_entries: Total expected rows (approximate): 2
+0108.275 (0) Table wp_wpforms_entries: Rows added in this batch (start page: 0; next: finished): 3 in 0.00 seconds
+0108.277 (0) Table wp_wpforms_entries: finishing file (backup_2022-09-06-1816_AgriFarm_79300e6f4a60-db-table-wp_wpforms_entries.table.gz - 1.1 KB)
+0108.292 (0) Table wp_wpforms_entry_fields: Total expected rows (approximate): 5
+0108.297 (0) Table wp_wpforms_entry_fields: Rows added in this batch (start page: 0; next: finished): 6 in 0.00 seconds
+0108.300 (0) Table wp_wpforms_entry_fields: finishing file (backup_2022-09-06-1816_AgriFarm_79300e6f4a60-db-table-wp_wpforms_entry_fields.table.gz - 0.6 KB)
+0108.314 (0) Table wp_wpforms_entry_meta: Total expected rows (approximate): 0
+0108.323 (0) Table wp_wpforms_entry_meta: Rows added in this batch (start page: 0; next: finished): 0 in 0.01 seconds
+0108.325 (0) Table wp_wpforms_entry_meta: finishing file (backup_2022-09-06-1816_AgriFarm_79300e6f4a60-db-table-wp_wpforms_entry_meta.table.gz - 0.4 KB)
+0108.339 (0) Table wp_wpforms_tasks_meta: Total expected rows (approximate): 2
+0108.346 (0) Table wp_wpforms_tasks_meta: Rows added in this batch (start page: 0; next: finished): 8 in 0.00 seconds
+0108.349 (0) Table wp_wpforms_tasks_meta: finishing file (backup_2022-09-06-1816_AgriFarm_79300e6f4a60-db-table-wp_wpforms_tasks_meta.table.gz - 0.5 KB)
+0108.363 (0) Table wp_wpuf_subscribers: Total expected rows (approximate): 0
+0108.369 (0) Table wp_wpuf_subscribers: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0108.371 (0) Table wp_wpuf_subscribers: finishing file (backup_2022-09-06-1816_AgriFarm_79300e6f4a60-db-table-wp_wpuf_subscribers.table.gz - 0.4 KB)
+0108.386 (0) Table wp_wpuf_transaction: Total expected rows (approximate): 0
+0108.393 (0) Table wp_wpuf_transaction: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0108.395 (0) Table wp_wpuf_transaction: finishing file (backup_2022-09-06-1816_AgriFarm_79300e6f4a60-db-table-wp_wpuf_transaction.table.gz - 0.5 KB)
+0108.401 (0) backup_2022-09-06-1816_AgriFarm_79300e6f4a60-db-table-wp_options.table.gz (1/60): adding to final database dump
+0108.445 (0) backup_2022-09-06-1816_AgriFarm_79300e6f4a60-db-table-wp_users.table.gz (2/60): adding to final database dump
+0108.448 (0) backup_2022-09-06-1816_AgriFarm_79300e6f4a60-db-table-wp_usermeta.table.gz (3/60): adding to final database dump
+0108.450 (0) backup_2022-09-06-1816_AgriFarm_79300e6f4a60-db-table-wp_actionscheduler_actions.table.gz (4/60): adding to final database dump
+0108.454 (0) backup_2022-09-06-1816_AgriFarm_79300e6f4a60-db-table-wp_actionscheduler_claims.table.gz (5/60): adding to final database dump
+0108.456 (0) backup_2022-09-06-1816_AgriFarm_79300e6f4a60-db-table-wp_actionscheduler_groups.table.gz (6/60): adding to final database dump
+0108.458 (0) backup_2022-09-06-1816_AgriFarm_79300e6f4a60-db-table-wp_actionscheduler_logs.table.gz (7/60): adding to final database dump
+0108.461 (0) backup_2022-09-06-1816_AgriFarm_79300e6f4a60-db-table-wp_commentmeta.table.gz (8/60): adding to final database dump
+0108.463 (0) backup_2022-09-06-1816_AgriFarm_79300e6f4a60-db-table-wp_comments.table.gz (9/60): adding to final database dump
+0108.466 (0) backup_2022-09-06-1816_AgriFarm_79300e6f4a60-db-table-wp_links.table.gz (10/60): adding to final database dump
+0108.468 (0) backup_2022-09-06-1816_AgriFarm_79300e6f4a60-db-table-wp_postmeta.table.gz (11/60): adding to final database dump
+0108.526 (0) backup_2022-09-06-1816_AgriFarm_79300e6f4a60-db-table-wp_posts.table.gz (12/60): adding to final database dump
+0108.561 (0) backup_2022-09-06-1816_AgriFarm_79300e6f4a60-db-table-wp_signups.table.gz (13/60): adding to final database dump
+0108.563 (0) backup_2022-09-06-1816_AgriFarm_79300e6f4a60-db-table-wp_term_relationships.table.gz (14/60): adding to final database dump
+0108.566 (0) backup_2022-09-06-1816_AgriFarm_79300e6f4a60-db-table-wp_term_taxonomy.table.gz (15/60): adding to final database dump
+0108.568 (0) backup_2022-09-06-1816_AgriFarm_79300e6f4a60-db-table-wp_termmeta.table.gz (16/60): adding to final database dump
+0108.571 (0) backup_2022-09-06-1816_AgriFarm_79300e6f4a60-db-table-wp_terms.table.gz (17/60): adding to final database dump
+0108.573 (0) backup_2022-09-06-1816_AgriFarm_79300e6f4a60-db-table-wp_wc_category_lookup.table.gz (18/60): adding to final database dump
+0108.575 (0) backup_2022-09-06-1816_AgriFarm_79300e6f4a60-db-table-wp_wc_product_meta_lookup.table.gz (19/60): adding to final database dump
+0108.577 (0) backup_2022-09-06-1816_AgriFarm_79300e6f4a60-db-table-wp_wc_reserved_stock.table.gz (20/60): adding to final database dump
+0108.579 (0) backup_2022-09-06-1816_AgriFarm_79300e6f4a60-db-table-wp_wc_tax_rate_classes.table.gz (21/60): adding to final database dump
+0108.582 (0) backup_2022-09-06-1816_AgriFarm_79300e6f4a60-db-table-wp_woocommerce_order_itemmeta.table.gz (22/60): adding to final database dump
+0108.584 (0) backup_2022-09-06-1816_AgriFarm_79300e6f4a60-db-table-wp_woocommerce_payment_tokenmeta.table.gz (23/60): adding to final database dump
+0108.587 (0) backup_2022-09-06-1816_AgriFarm_79300e6f4a60-db-table-wp_cartflows_ca_cart_abandonment.table.gz (24/60): adding to final database dump
+0108.590 (0) backup_2022-09-06-1816_AgriFarm_79300e6f4a60-db-table-wp_cartflows_ca_email_history.table.gz (25/60): adding to final database dump
+0108.592 (0) backup_2022-09-06-1816_AgriFarm_79300e6f4a60-db-table-wp_cartflows_ca_email_templates.table.gz (26/60): adding to final database dump
+0108.594 (0) backup_2022-09-06-1816_AgriFarm_79300e6f4a60-db-table-wp_cartflows_ca_email_templates_meta.table.gz (27/60): adding to final database dump
+0108.596 (0) backup_2022-09-06-1816_AgriFarm_79300e6f4a60-db-table-wp_maxbuttons_collections.table.gz (28/60): adding to final database dump
+0108.598 (0) backup_2022-09-06-1816_AgriFarm_79300e6f4a60-db-table-wp_maxbuttonsv3.table.gz (29/60): adding to final database dump
+0108.601 (0) backup_2022-09-06-1816_AgriFarm_79300e6f4a60-db-table-wp_noptin_automation_rules.table.gz (30/60): adding to final database dump
+0108.603 (0) backup_2022-09-06-1816_AgriFarm_79300e6f4a60-db-table-wp_noptin_subscriber_meta.table.gz (31/60): adding to final database dump
+0108.605 (0) backup_2022-09-06-1816_AgriFarm_79300e6f4a60-db-table-wp_noptin_subscribers.table.gz (32/60): adding to final database dump
+0108.608 (0) backup_2022-09-06-1816_AgriFarm_79300e6f4a60-db-table-wp_wc_admin_note_actions.table.gz (33/60): adding to final database dump
+0108.610 (0) backup_2022-09-06-1816_AgriFarm_79300e6f4a60-db-table-wp_wc_admin_notes.table.gz (34/60): adding to final database dump
+0108.612 (0) backup_2022-09-06-1816_AgriFarm_79300e6f4a60-db-table-wp_wc_customer_lookup.table.gz (35/60): adding to final database dump
+0108.614 (0) backup_2022-09-06-1816_AgriFarm_79300e6f4a60-db-table-wp_wc_download_log.table.gz (36/60): adding to final database dump
+0108.617 (0) backup_2022-09-06-1816_AgriFarm_79300e6f4a60-db-table-wp_wc_order_coupon_lookup.table.gz (37/60): adding to final database dump
+0108.619 (0) backup_2022-09-06-1816_AgriFarm_79300e6f4a60-db-table-wp_wc_order_product_lookup.table.gz (38/60): adding to final database dump
+0108.622 (0) backup_2022-09-06-1816_AgriFarm_79300e6f4a60-db-table-wp_wc_order_stats.table.gz (39/60): adding to final database dump
+0108.624 (0) backup_2022-09-06-1816_AgriFarm_79300e6f4a60-db-table-wp_wc_order_tax_lookup.table.gz (40/60): adding to final database dump
+0108.626 (0) backup_2022-09-06-1816_AgriFarm_79300e6f4a60-db-table-wp_wc_webhooks.table.gz (41/60): adding to final database dump
+0108.628 (0) backup_2022-09-06-1816_AgriFarm_79300e6f4a60-db-table-wp_woocommerce_api_keys.table.gz (42/60): adding to final database dump
+0108.630 (0) backup_2022-09-06-1816_AgriFarm_79300e6f4a60-db-table-wp_woocommerce_attribute_taxonomies.table.gz (43/60): adding to final database dump
+0108.633 (0) backup_2022-09-06-1816_AgriFarm_79300e6f4a60-db-table-wp_woocommerce_downloadable_product_permissions.table.gz (44/60): adding to final database dump
+0108.635 (0) backup_2022-09-06-1816_AgriFarm_79300e6f4a60-db-table-wp_woocommerce_log.table.gz (45/60): adding to final database dump
+0108.637 (0) backup_2022-09-06-1816_AgriFarm_79300e6f4a60-db-table-wp_woocommerce_multisafepay.table.gz (46/60): adding to final database dump
+0108.639 (0) backup_2022-09-06-1816_AgriFarm_79300e6f4a60-db-table-wp_woocommerce_order_items.table.gz (47/60): adding to final database dump
+0108.642 (0) backup_2022-09-06-1816_AgriFarm_79300e6f4a60-db-table-wp_woocommerce_payment_tokens.table.gz (48/60): adding to final database dump
+0108.644 (0) backup_2022-09-06-1816_AgriFarm_79300e6f4a60-db-table-wp_woocommerce_sessions.table.gz (49/60): adding to final database dump
+0108.647 (0) backup_2022-09-06-1816_AgriFarm_79300e6f4a60-db-table-wp_woocommerce_shipping_zone_locations.table.gz (50/60): adding to final database dump
+0108.649 (0) backup_2022-09-06-1816_AgriFarm_79300e6f4a60-db-table-wp_woocommerce_shipping_zone_methods.table.gz (51/60): adding to final database dump
+0108.651 (0) backup_2022-09-06-1816_AgriFarm_79300e6f4a60-db-table-wp_woocommerce_shipping_zones.table.gz (52/60): adding to final database dump
+0108.653 (0) backup_2022-09-06-1816_AgriFarm_79300e6f4a60-db-table-wp_woocommerce_tax_rate_locations.table.gz (53/60): adding to final database dump
+0108.656 (0) backup_2022-09-06-1816_AgriFarm_79300e6f4a60-db-table-wp_woocommerce_tax_rates.table.gz (54/60): adding to final database dump
+0108.658 (0) backup_2022-09-06-1816_AgriFarm_79300e6f4a60-db-table-wp_wpforms_entries.table.gz (55/60): adding to final database dump
+0108.661 (0) backup_2022-09-06-1816_AgriFarm_79300e6f4a60-db-table-wp_wpforms_entry_fields.table.gz (56/60): adding to final database dump
+0108.663 (0) backup_2022-09-06-1816_AgriFarm_79300e6f4a60-db-table-wp_wpforms_entry_meta.table.gz (57/60): adding to final database dump
+0108.665 (0) backup_2022-09-06-1816_AgriFarm_79300e6f4a60-db-table-wp_wpforms_tasks_meta.table.gz (58/60): adding to final database dump
+0108.667 (0) backup_2022-09-06-1816_AgriFarm_79300e6f4a60-db-table-wp_wpuf_subscribers.table.gz (59/60): adding to final database dump
+0108.669 (0) backup_2022-09-06-1816_AgriFarm_79300e6f4a60-db-table-wp_wpuf_transaction.table.gz (60/60): adding to final database dump
+0108.704 (0) backup_2022-09-06-1816_AgriFarm_79300e6f4a60-db.gz: finished writing out complete database file (512 KB)
+0108.733 (0) Total database tables backed up: 60 (backup_2022-09-06-1816_AgriFarm_79300e6f4a60-db.gz, size: 537976, sha1: 2a889be71fe307a73675c5434f572c087141adad, sha256: deb64740d7286af067c2a59fb51daa9d0a49e92ea607716736bf4ef44f83e81c)
+0108.744 (0) backup_2022-09-06-1816_AgriFarm_79300e6f4a60-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0108.746 (0) backup_2022-09-06-1816_AgriFarm_79300e6f4a60-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0108.748 (0) backup_2022-09-06-1816_AgriFarm_79300e6f4a60-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0108.751 (0) backup_2022-09-06-1816_AgriFarm_79300e6f4a60-others.zip: others: This file has not yet been successfully uploaded: will queue
+0108.753 (0) backup_2022-09-06-1816_AgriFarm_79300e6f4a60-db.gz: db: This file has not yet been successfully uploaded: will queue
+0108.755 (0) Saving backup history. Total backup size: 134.8 MB
+0108.760 (0) Requesting upload of the files that have not yet been successfully uploaded (5)
+0108.766 (0) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+0108.769 (0) Beginning dispatch of backup to remote (googledrive) (instance identifier s-0320abb4f30a271fd071360e80872875)
+0109.190 (0) Google Drive: ERROR: Have not yet obtained an access token from Google (has the user authorised?) (Invalid request (refresh token not present).) (no_refresh_token)
+0109.193 (0) An error condition has occurred for the first time during this job
+0109.198 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0109.201 (0) Number of backup sets in history: 3; groups (db): 1
+0109.203 (0) Examining (for databases) backup set with group_id=0, nonce=79300e6f4a60, datestamp=1662488183 (Sep 06 2022 18:16:23)
+0109.205 (0) This backup set is the backup set just made, so will not be deleted.
+0109.205 (0) Examining (for databases) backup set with group_id=0, nonce=33ece2b042ab, datestamp=1598034082 (Aug 21 2020 18:21:22)
+0109.205 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0109.207 (0) Examining (for databases) backup set with group_id=0, nonce=3ca9ce58509d, datestamp=1597483560 (Aug 15 2020 09:26:00)
+0109.207 (0) 1597483560: db: this set includes a database (backup_2020-08-15-0926_AgriFarm_3ca9ce58509d-db.gz); db count is now 2
+0109.207 (0) 1597483560: db: over retain limit (2); will delete this database
+0109.207 (0) Delete file: backup_2020-08-15-0926_AgriFarm_3ca9ce58509d-db.gz, service=googledrive
+0109.209 (0) Deleting local copy (backup_2020-08-15-0926_AgriFarm_3ca9ce58509d-db.gz)
+0109.543 (0) Google Drive: ERROR: Have not yet obtained an access token from Google (has the user authorised?) (Invalid request (refresh token not present).) (no_refresh_token)
+0109.545 (0) Google Drive: delete: failed due to storage error: no_refresh_token (Invalid request (refresh token not present).)
+0109.550 (0) This backup set remains non-empty (f=1/d=0); will retain in history
+0109.552 (0) Number of backup sets in history: 3; groups (files): 1
+0109.554 (0) Examining (for files) backup set with nonce=79300e6f4a60, datestamp=1662488183 (Sep 06 2022 18:16:23)
+0109.554 (0) This backup set is the backup set just made, so will not be deleted.
+0109.556 (0) This backup set is the backup set just made, so will not be deleted.
+0109.556 (0) This backup set is the backup set just made, so will not be deleted.
+0109.556 (0) This backup set is the backup set just made, so will not be deleted.
+0109.556 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0109.558 (0) Examining (for files) backup set with nonce=33ece2b042ab, datestamp=1598034082 (Aug 21 2020 18:21:22)
+0109.558 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0109.558 (0) Examining (for files) backup set with nonce=3ca9ce58509d, datestamp=1597483560 (Aug 15 2020 09:26:00)
+0109.558 (0) plugins: over retain limit (2); will delete this file entity
+0109.558 (0) themes: over retain limit (2); will delete this file entity
+0109.558 (0) uploads: over retain limit (2); will delete this file entity
+0109.558 (0) others: over retain limit (2); will delete this file entity
+0109.558 (0) Delete file: backup_2020-08-15-0926_AgriFarm_3ca9ce58509d-plugins.zip, service=googledrive
+0109.561 (0) Deleting local copy (backup_2020-08-15-0926_AgriFarm_3ca9ce58509d-plugins.zip)
+0109.563 (0) Delete file: backup_2020-08-15-0926_AgriFarm_3ca9ce58509d-themes.zip, service=googledrive
+0109.566 (0) Deleting local copy (backup_2020-08-15-0926_AgriFarm_3ca9ce58509d-themes.zip)
+0109.568 (0) Delete file: backup_2020-08-15-0926_AgriFarm_3ca9ce58509d-uploads.zip, service=googledrive
+0109.571 (0) Deleting local copy (backup_2020-08-15-0926_AgriFarm_3ca9ce58509d-uploads.zip)
+0109.573 (0) Delete file: backup_2020-08-15-0926_AgriFarm_3ca9ce58509d-others.zip, service=googledrive
+0109.576 (0) Deleting local copy (backup_2020-08-15-0926_AgriFarm_3ca9ce58509d-others.zip)
+0109.942 (0) Google Drive: ERROR: Have not yet obtained an access token from Google (has the user authorised?) (Invalid request (refresh token not present).) (no_refresh_token)
+0109.945 (0) Google Drive: delete: failed due to storage error: no_refresh_token (Invalid request (refresh token not present).)
+0109.950 (0) This backup set is now empty; will remove from history
+0109.952 (0) Corresponding log file (log.3ca9ce58509d.txt) not found - must have already been deleted
+0109.954 (0) Retain: saving new backup history (sets now: 2) and finishing retain operation
+0109.961 (0) Resume backup (79300e6f4a60, 0): finish run
+0109.968 (0) Decremented the semaphore (fd) by 1
+0109.972 (0) Semaphore (fd) unlocked
+0109.975 (0) There were errors in the uploads, so the 'resume' event is remaining scheduled
+0109.984 (0) Rescheduling resumption 1: moving to 100 seconds from now (1662488393)
+0109.990 (0) No email will/can be sent - the user has not configured an email address.
+0109.992 (0) The backup has not finished; a resumption is scheduled
