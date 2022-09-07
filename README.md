@@ -1,8 +1,9 @@
 # AgriFarm
  A website made with WordPress.
 
-##Screenshots
+# Screenshots
 
+## Home Page
 <p align="center">
     <img width="600" src="https://github.com/FarhanSyed23/AgriFarm/blob/main/Screenshots/AgriFarm.png" alt="Home page">
 </p>
