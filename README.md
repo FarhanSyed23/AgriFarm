@@ -8,7 +8,9 @@
 <p align="center">
     <img width="600" src="https://github.com/FarhanSyed23/AgriFarm/blob/main/Screenshots/AgriFarm.png" alt="Home page">
 </p>
+
 ## Shops Page
+
 <p align="center">
     <img width="600" src="https://github.com/FarhanSyed23/AgriFarm/blob/main/Screenshots/Store.png" alt="Shops page">
 </p>
