@@ -5,7 +5,7 @@
 # Tools Used
 
 <p align="center">
-    <img width="800" src="https://github.com/FarhanSyed23/AgriFarm/blob/main/Screenshots/Plugins.jpg" alt="Plugins">
+    <img width="900" src="https://github.com/FarhanSyed23/AgriFarm/blob/main/Screenshots/Plugins.jpg" alt="Plugins">
 </p>
 
 # Screenshots
@@ -15,7 +15,7 @@
 To establish our vision of this website, we decided to have feature products, blogs and video tutorials on home page. Our website will have master header, master footer on every page and there will be a banner of our website on the home page. For this, we created four sections using Elementor Page Builder. First we created a banner section for our website where we added multiple images which would be slided automatically. This banner section has a fixed text code used as a quotation. This section includes a search bar. The second section contains feature products which is built with the Product Grid Widget from the essential addons for elementor. The third section includes tutorial videos made with Video Widget from Elementor. The fourth section contains blog posts made with Post Carousel Widget from essential addons for elementor.
 
 <p align="center">
-    <img width="600" src="https://github.com/FarhanSyed23/AgriFarm/blob/main/Screenshots/AgriFarm.png" alt="Home page">
+    <img width="700" src="https://github.com/FarhanSyed23/AgriFarm/blob/main/Screenshots/AgriFarm.png" alt="Home page">
 </p>
 
 ## Shops Page
