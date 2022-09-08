@@ -5,7 +5,7 @@
 # Tools Used
 
 <p align="center">
-    <img width="600" src="https://github.com/FarhanSyed23/AgriFarm/blob/main/Screenshots/Plugins.jpg" alt="Plugins">
+    <img width="800" src="https://github.com/FarhanSyed23/AgriFarm/blob/main/Screenshots/Plugins.jpg" alt="Plugins">
 </p>
 
 # Screenshots
