@@ -70,7 +70,7 @@ To enable the users for logging in from anywhere on the website, we created a po
     <img width="600" src="https://github.com/FarhanSyed23/AgriFarm/blob/main/Screenshots/My_Account_Orders.png" alt="My Account Orders">
 </p>
 
-It is made with the help of a shortcode provided by WooCommerce which came with the theme Astra. This section helps users to update products, apply special coupons for products, cart details which includes details about the purchasing order. It gives user the chance to proceed to checkout which redirects them to Checkout Page.
+Cart Section is made with the help of a shortcode provided by WooCommerce which came with the theme Astra. This section helps users to update products, apply special coupons for products, cart details which includes details about the purchasing order. It gives user the chance to proceed to checkout which redirects them to Checkout Page.
 
 <p align="center">
     <img width="600" src="https://github.com/FarhanSyed23/AgriFarm/blob/main/Screenshots/Cart.png" alt="Cart">
