@@ -15,4 +15,48 @@
     <img width="600" src="https://github.com/FarhanSyed23/AgriFarm/blob/main/Screenshots/Store.png" alt="Shops page">
 </p>
 
+## Tutorials Page
 
+<p align="center">
+    <img width="600" src="https://github.com/FarhanSyed23/AgriFarm/blob/main/Screenshots/Tutorials.png" alt="Tutorials page">
+</p>
+
+## Blogs Page
+
+<p align="center">
+    <img width="600" src="https://github.com/FarhanSyed23/AgriFarm/blob/main/Screenshots/Blog_Page.png" alt="Blogs page">
+</p>
+
+## About Page
+
+<p align="center">
+    <img width="600" src="https://github.com/FarhanSyed23/AgriFarm/blob/main/Screenshots/About_Page.png" alt="About page">
+</p>
+
+## Contact US Page
+
+<p align="center">
+    <img width="600" src="https://github.com/FarhanSyed23/AgriFarm/blob/main/Screenshots/Contact_Us.png" alt="About page">
+</p>
+
+## Account Page
+
+<p align="center">
+    <img width="600" src="https://github.com/FarhanSyed23/AgriFarm/blob/main/Screenshots/My_Account.png" alt="My Account page">
+</p>
+
+<p align="center">
+    <img width="600" src="https://github.com/FarhanSyed23/AgriFarm/blob/main/Screenshots/Sign%20Up%20Page.png" alt="Sign Up">
+</p>
+
+<p align="center">
+    <img width="600" src="https://github.com/FarhanSyed23/AgriFarm/blob/main/Screenshots/My_Account_Orders.png" alt="My Account Orders">
+</p>
+
+<p align="center">
+    <img width="600" src="https://github.com/FarhanSyed23/AgriFarm/blob/main/Screenshots/Cart.png" alt="Cart">
+</p>
+
+<p align="center">
+    <img width="600" src="https://github.com/FarhanSyed23/AgriFarm/blob/main/Screenshots/Checkout%20Page.png" alt="Checkout">
+</p>
